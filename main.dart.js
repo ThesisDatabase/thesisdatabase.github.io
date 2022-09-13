@@ -64362,7 +64362,7 @@ A.aca.prototype={
 $1(a){return new A.mZ(new A.dv(t.Iw),A.b([],t.s),$.aU())},
 $S:410}
 A.F9.prototype={
-I(a,b){return new A.vJ(B.Cf,"Flutter Demo",A.aiI(null,B.ck,B.k),!1,null)}}
+I(a,b){return new A.vJ(B.Cf,"Food Ordering",A.aiI(null,B.ck,B.k),!1,null)}}
 A.EP.prototype={
 I(a,b){var s=A.Fx()
 A.Fx()
